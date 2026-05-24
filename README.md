@@ -1,4 +1,4 @@
-# RepulokGUI
+# Repülők - GUI
 ```
  A repulok.csv fájl repülőgépek adatait tartalmazza, pontosvesszővel elválasztva,
  utf-8 kódolással. VIGYÁZAT, az első sor fejléc!
